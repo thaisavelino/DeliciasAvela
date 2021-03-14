@@ -34755,16 +34755,15 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 100px;
 }
 
 .u-header .u-image-1 {
-  margin: 22px auto 0 0;
+  margin: 15px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
-  max-width: 64px;
-  max-height: 64px;
+  max-height: 74px;
 }
 
 .u-header .u-menu-1 {
@@ -34788,8 +34787,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
-    width: 64px;
-    height: 32px;
+    height: 70px;
   }
 }
 
